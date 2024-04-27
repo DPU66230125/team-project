@@ -48,8 +48,8 @@ function Dashboard() {
               <ComplexStatisticsCard
                 color="dark"
                 icon="weekend"
-                title="Bookings"
-                count={281}
+                title="Tummanoon Wanchaem"
+                count="66230125"
                 percentage={{
                   color: "success",
                   amount: "+55%",
@@ -62,8 +62,8 @@ function Dashboard() {
             <MDBox mb={1.5}>
               <ComplexStatisticsCard
                 icon="leaderboard"
-                title="Today's Users"
-                count="2,300"
+                title="Autsadayut Thatsanapayak"
+                count="66130377"
                 percentage={{
                   color: "success",
                   amount: "+3%",
@@ -77,8 +77,8 @@ function Dashboard() {
               <ComplexStatisticsCard
                 color="success"
                 icon="store"
-                title="Revenue"
-                count="34k"
+                title="Padiphan Prempree"
+                count="66130424"
                 percentage={{
                   color: "success",
                   amount: "+1%",
@@ -92,8 +92,8 @@ function Dashboard() {
               <ComplexStatisticsCard
                 color="primary"
                 icon="person_add"
-                title="Followers"
-                count="+91"
+                title="Lathanan Nakhasuree"
+                count="66130888"
                 percentage={{
                   color: "success",
                   amount: "",
